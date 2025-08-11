@@ -1,14 +1,14 @@
 <!-- Profile README for AlmahaR | Dark & Professional -->
 
+<!-- Banner -->
+![Banner](https://github.com/AlmahaR/AlmahaR/blob/main/banner.jpg)
+
 <!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Almaha+Raheem;Software+Engineer;Graphic+Designer;UX%2FUI+Designer;Website+Designer;System+Analyst;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2800&pause=900&width=900&size=28&color=9AE1FF&multiline=true&lines=Hi%2C+I'm+Almaha+%F0%9F%91%8B;Software+Engineer;Graphic+Designer;UX%2FUI+Designer;Website+Designer;System+Analyst;Tech+Enthusiast)](https://git.io/typing-svg)
-
-# 👩‍💻 Almaha — Software Engineer
-
-I’m a Software Engineer at UTM with a strong eye for design. I bridge code and creativity:
-building reliable web apps, shaping clean UX/UI, and crafting visual identities.  
-Curious by nature, driven by impact, and always exploring modern technologies.
+# 👩‍💻 About Me  
+I’m a Software Engineer at UTM with a passion for blending technology and design.  
+I specialize in creating user-focused web applications, intuitive UX/UI designs, and clean system architectures.
 
 ---
 
@@ -20,6 +20,16 @@ Databases: MongoDB, PostgreSQL
 Design: Figma, Adobe XD, Illustrator, Photoshop  
 Tools: Git, GitHub, Postman, VS Code, Docker (basics)
 
+---
+
+### 🌐 Languages
+- English — Professional  
+- Arabic — Native
+
+---
+
+### 🚀 Featured Projects
+*(Add your real projects here with a short description and links)*
 
 ---
 
@@ -30,15 +40,12 @@ Tools: Git, GitHub, Postman, VS Code, Docker (basics)
 ---
 
 ### 🎯 Currently Learning
-- System design fundamentals • Clean architecture • Web performance
+- System design fundamentals  
+- Clean architecture  
+- Web performance optimization
 
 ---
 
 ### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/almaha-raheem-910009361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/almaha-raheem-910009361)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:almaharahim@gmail.com)
-
-<!-- Notes:
-- Keep it honest: add only real skills/projects.
-- You can pin your top repos from the profile page (Customize your pins).
--->
