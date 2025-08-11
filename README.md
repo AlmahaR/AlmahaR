@@ -1,6 +1,7 @@
 <!-- Profile README for AlmahaR | Dark & Professional -->
 
 <!-- Typing Animation -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2800&pause=900&width=900&size=28&color=9AE1FF&multiline=true&lines=Hi%2C+I'm+Almaha+%F0%9F%91%8B;Software+Engineer;Graphic+Designer;UX%2FUI+Designer;Website+Designer;System+Analyst;Tech+Enthusiast)](https://git.io/typing-svg)
 
 # 👩‍💻 Almaha — Software Engineer
