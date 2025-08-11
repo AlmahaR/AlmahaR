@@ -19,15 +19,6 @@ I craft reliable, user-centric web apps and love turning ideas into products.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
----
-
-### 🚀 Featured Projects
-*(أضيفي هنا مشاريعك الحقيقية مع وصف قصير لكل مشروع وروابطه)*  
-- Project Name 1 — Short description.  
-  Tech Stack — [Repo](link) · [Live](link)
-
-- Project Name 2 — Short description.  
-  Tech Stack — [Repo](link) · [Live](link)
 
 ---
 
