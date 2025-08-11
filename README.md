@@ -28,11 +28,6 @@ Tools: Git, GitHub, Postman, VS Code, Docker (basics)
 
 ---
 
-### 🚀 Featured Projects
-*(Add your real projects here with a short description and links)*
-
----
-
 ### 📈 GitHub Insights
 ![Almaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmahaR&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmahaR&layout=compact&theme=tokyonight)
