@@ -1,24 +1,36 @@
-<!-- Profile README for AlmahaR -->
+<!-- Profile README for AlmahaR | Dark & Professional -->
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=700&lines=Hi%2C+I'm+Almaha+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer+%7C+Tech+Explorer;I+build+clean%2C+scalable%2C+user-first+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2800&pause=900&width=900&size=28&color=9AE1FF&multiline=true&lines=Hi%2C+I'm+Almaha+%F0%9F%91%8B;Software+Engineer;Graphic+Designer;UX%2FUI+Designer;Website+Designer;System+Analyst;Tech+Enthusiast)](https://git.io/typing-svg)
 
 # 👩‍💻 Almaha — Software Engineer
 
-I craft reliable, user-centric web apps and love turning ideas into products.
+I’m a Software Engineer at UTM with a strong eye for design. I bridge code and creativity:
+building reliable web apps, shaping clean UX/UI, and crafting visual identities.  
+Curious by nature, driven by impact, and always exploring modern technologies.
 
 ---
 
 ### 🧰 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+Languages: JavaScript, TypeScript, Python, HTML, CSS  
+Frontend: React, Next.js, Tailwind CSS  
+Backend: Node.js, Express  
+Databases: MongoDB, PostgreSQL  
+Design: Figma, Adobe XD, Illustrator, Photoshop  
+Tools: Git, GitHub, Postman, VS Code, Docker (basics)
 
+> Add/remove items to match your real skills.
+
+---
+
+### 🚀 Featured Projects
+_Add your real projects only. Replace the placeholders below or remove this section until ready._
+
+- Project Name — Short one‑line description.  
+  Tech Stack — [Repo](link) · [Live](link)
+
+- Project Name — Short one‑line description.  
+  Tech Stack — [Repo](link) · [Live](link)
 
 ---
 
@@ -28,12 +40,16 @@ I craft reliable, user-centric web apps and love turning ideas into products.
 
 ---
 
+### 🎯 Currently Learning
+- System design fundamentals • Clean architecture • Web performance
+
+---
+
 ### 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/almaha-raheem-910009361)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:almaharahim@gmail.com)
 
----
-
-### ✨ Fun
-- Currently learning: system design & clean architecture
-- Ask me about: web performance, API design, and UX details
+<!-- Notes:
+- Keep it honest: add only real skills/projects.
+- You can pin your top repos from the profile page (Customize your pins).
+-->
