@@ -19,18 +19,6 @@ Databases: MongoDB, PostgreSQL
 Design: Figma, Adobe XD, Illustrator, Photoshop  
 Tools: Git, GitHub, Postman, VS Code, Docker (basics)
 
-> Add/remove items to match your real skills.
-
----
-
-### 🚀 Featured Projects
-_Add your real projects only. Replace the placeholders below or remove this section until ready._
-
-- Project Name — Short one‑line description.  
-  Tech Stack — [Repo](link) · [Live](link)
-
-- Project Name — Short one‑line description.  
-  Tech Stack — [Repo](link) · [Live](link)
 
 ---
 
