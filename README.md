@@ -1,46 +1,223 @@
-<!-- Profile README for AlmahaR | Dark & Professional -->
+# 🌟 Hi there, I'm AlmahaR 👋 🌟
 
-<!-- Banner -->
-![Banner](https://github.com/AlmahaR/AlmahaR/blob/main/banner.jpg)
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Almaha+Raheem;Software+Engineer;Graphic+Designer;UX%2FUI+Designer;Website+Designer;System+Analyst;Tech+Enthusiast)](https://git.io/typing-svg)
-
-# 👩‍💻 About Me  
-I’m a Software Engineer at UTM with a passion for blending technology and design.  
-I specialize in creating user-focused web applications, intuitive UX/UI designs, and clean system architectures.
-
----
-
-### 🧰 Tech Stack
-Languages: JavaScript, TypeScript, Python, HTML, CSS  
-Frontend: React, Next.js, Tailwind CSS  
-Backend: Node.js, Express  
-Databases: MongoDB, PostgreSQL  
-Design: Figma, Adobe XD, Illustrator, Photoshop  
-Tools: Git, GitHub, Postman, VS Code, Docker (basics)
+```
+███╗   ███╗███████╗███████╗████████╗    ███████╗██╗  ██╗███████╗███████╗██╗  ██╗
+████╗ ████║██╔════╝██╔════╝╚══██╔══╝    ██╔════╝██║ ██╔╝██╔════╝██╔════╝██║  ██║
+██╔████╔██║█████╗  █████╗     ██║       ███████╗█████╔╝ █████╗  █████╗  ███████║
+██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚════██║██╔═██╗ ██╔══╝  ██╔══╝  ╚════██║
+██║ ╚═╝ ██║███████╗███████╗   ██║       ███████║██║  ██╗███████╗███████╗     ██║
+╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚═╝
+```
 
 ---
 
-### 🌐 Languages
-- English — Professional  
-- Arabic — Native
+## 🌠 **Welcome to My Digital Universe** 🌠
+
+I'm an **IoT Engineer** 🚀 passionate about designing robust systems, managing complex projects, and building intelligent connected solutions. With expertise in IoT platforms, cloud architecture, and real-time monitoring, I transform ideas into **scalable systems** that solve real-world problems.
+
+> *"The way to get started is to quit talking and begin doing." – Walt Disney* ⚡
 
 ---
 
-### 📈 GitHub Insights
-![Almaha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmahaR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmahaR&layout=compact&theme=tokyonight)
+## 🚀 **ABOUT ME** 🚀
+
+I specialize in creating **end-to-end IoT solutions** with a strong focus on:
+
+### 🏗️ **System Architecture & Design**
+Building scalable, fault-tolerant systems that stand the test of time
+
+### 📋 **Project Management**
+Delivering complex projects on time and within scope with precision
+
+### 📊 **System Monitoring & Observability**
+Real-time insights and proactive alerts to keep systems healthy
+
+### 🌐 **IoT Solutions**
+From edge devices to cloud integration – connecting the world
+
+I'm driven by solving challenging problems and continuously exploring cutting-edge technologies. When I'm not designing systems, you'll find me immersed in anime, gaming, or diving into the latest tech innovations! 🎌✨
 
 ---
 
-### 🎯 Currently Learning
-- System design fundamentals  
-- Clean architecture  
-- Web performance optimization
+## 💻 **TECH STACK** 💻
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    🔧 LANGUAGES 🔧                        ║
+╠════════════════════════════════════════════════════════════╣
+║  🐍 Python  │  ☕ Java  │  ⚙️ C++  │  🎨 HTML  │  🎭 CSS  ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+### 📡 **IoT Platforms**
+```
+🎮 Arduino    │    🥧 Raspberry Pi    │    ☁️ AWS IoT    
+💎 Azure IoT    │    🧠 Edge Computing
+```
+
+### ☁️ **Cloud Platforms**
+```
+🌩️ AWS    │    💙 Azure    │    🌈 Google Cloud
+```
+
+### 📈 **Monitoring & Observability**
+```
+📊 Datadog    │    🔴 New Relic    │    🟢 Prometheus    │    📉 Grafana
+```
+
+### 🛠️ **Tools & Technologies**
+```
+⚡ Real-time Data Processing
+📍 GPS Tracking
+🔌 API Development
+📊 Dashboard Design
+🔐 IoT Security
+```
 
 ---
 
-### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/almaha-raheem-910009361)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:almaharahim@gmail.com)
+## 🎯 **WHAT I'M WORKING ON** 🎯
+
+```
+▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 100% PASSION FOR EXCELLENCE
+```
+
+- 🏢 **Designing scalable IoT architectures** for enterprise solutions
+- 🚨 **Implementing advanced monitoring** and alerting systems
+- 🔒 **Building secure edge computing** solutions
+- 📈 **Optimizing real-time data analytics** pipelines
+- 💡 **Contributing to IoT and systems design** innovation
+
+---
+
+## 🌟 **FEATURED PROJECTS** 🌟
+
+### 🔬 **SMART LAB SAFETY & EQUIPMENT MONITORING SYSTEM**
+
+```
+╔═══════════════════════════════════════════════════════╗
+║   🎯 Comprehensive IoT Laboratory Solution           ║
+║   Real-time equipment monitoring & safety compliance ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+**Tech Stack:** `Arduino` | `Raspberry Pi` | `AWS IoT` | `Python`
+
+✨ **Features:**
+- ⚡ Real-time equipment status monitoring
+- 🚨 Automated safety alerts and notifications
+- 📊 Centralized lab management dashboard
+- 📈 Historical data logging and analysis
+
+---
+
+### 🚗 **ADVANCED FLEET MANAGEMENT SYSTEM**
+
+```
+╔═══════════════════════════════════════════════════════╗
+║   🚚 Intelligent Fleet Intelligence Platform         ║
+║   GPS Tracking | Analytics | Security | Dashboard    ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+**Tech Stack:** `GPS Tracking` | `Data Analytics` | `Dashboard` | `API` | `Cloud`
+
+✨ **Features:**
+- 📍 Real-time vehicle location tracking & route optimization
+- 📊 Advanced data analytics for fleet performance insights
+- 🔐 Secure RESTful API for third-party integrations
+- 📉 Comprehensive analytics dashboard with KPI tracking
+- 🛡️ Security-first architecture with encrypted data transmission
+
+---
+
+## 🌱 **EXPERTISE & FOCUS AREAS** 🌱
+
+### 🔌 **IoT Architecture**
+End-to-end connected systems design
+
+### ☁️ **Cloud Integration**
+Seamless AWS, Azure, and Google Cloud deployments
+
+### 👁️ **Real-Time Monitoring**
+Building observability into every system
+
+### 🧠 **Edge Computing**
+Bringing intelligence to the edge
+
+### 📉 **Data Analytics**
+Transforming raw data into actionable insights
+
+### 🛡️ **System Security**
+Building secure and compliant IoT solutions
+
+---
+
+## 🎨 **FUN FACTS ABOUT ME** 🎨
+
+```
+╔════════════════════════════════════════════════════╗
+║             WHO IS ALMAHA? 🎌                     ║
+╠════════════════════════════════════════════════════╣
+║ 🎌 Anime Enthusiast                               ║
+║    (Attack on Titan, Death Note, My Hero Academia)║
+║                                                    ║
+║ 🎮 Hardcore Gamer                                 ║
+║    Conquering digital worlds one level at a time  ║
+║                                                    ║
+║ 💭 Philosophy & Problem-Solving Junkie            ║
+║    Always seeking elegant solutions                ║
+║                                                    ║
+║ ⚙️ System Design Obsessed                         ║
+║    Beauty in architecture                         ║
+║                                                    ║
+║ 🚀 Forever Learning & Building                    ║
+║    Every day is a new challenge                   ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 **GITHUB STATS** 📊
+
+![AlmahaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmahaR&show_icons=true&theme=dark)
+
+---
+
+## 🤝 **LET'S CONNECT** 🤝
+
+I'm always interested in collaborating on **IoT projects**, **system design discussions**, and **innovative solutions**. Feel free to reach out!
+
+```
+┌─────────────────────────────────────────────────────┐
+│  📧 EMAIL                                           │
+│  almaharahim@gmail.com                              │
+├─────────────────────────────────────────────────────┤
+│  💼 LINKEDIN                                        │
+│  linkedin.com/in/almaha-raheem-alise                │
+├─────────────────────────────────────────────────────┤
+│  🐙 GITHUB                                          │
+│  @AlmahaR                                           │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+███████╗██╗  ██╗██╗  ██╗██╗███╗   ██╗ ██████╗ ███████╗
+██╔════╝╚██╗██╔╝██║  ██║██║████╗  ██║██╔════╝ ██╔════╝
+███████╗ ╚███╔╝ ███████║██║██╔██╗ ██║██║  ███╗███████╗
+╚════██║ ██╔██╗ ██╔══██║██║██║╚██╗██║██║   ██║╚════██║
+███████║██╔╝ ██╗██║  ██║██║██║ ╚████║╚██████╔╝███████║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+```
+
+**Explore my repositories to see IoT solutions, system designs, and monitoring implementations.**
+
+**Let's build something amazing together!** 🌟🚀
+
+---
+
+*"Your code is a reflection of your dedication to excellence."* 💎
+
+⭐ **Star my repos if you find them useful!** ⭐
