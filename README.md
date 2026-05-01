@@ -153,28 +153,6 @@ Building secure and compliant IoT solutions
 
 ---
 
-## 🎨 **FUN FACTS ABOUT ME** 🎨
-
-```
-╔════════════════════════════════════════════════════╗
-║             WHO IS ALMAHA? 🎌                     ║
-╠════════════════════════════════════════════════════╣
-║ 🎌 Anime Enthusiast                               ║
-║    (Attack on Titan, Death Note, My Hero Academia)║
-║                                                    ║
-║ 🎮 Hardcore Gamer                                 ║
-║    Conquering digital worlds one level at a time  ║
-║                                                    ║
-║ 💭 Philosophy & Problem-Solving Junkie            ║
-║    Always seeking elegant solutions                ║
-║                                                    ║
-║ ⚙️ System Design Obsessed                         ║
-║    Beauty in architecture                         ║
-║                                                    ║
-║ 🚀 Forever Learning & Building                    ║
-║    Every day is a new challenge                   ║
-╚════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -210,14 +188,7 @@ I'm always interested in collaborating on **IoT projects**, **system design disc
 ╚════██║ ██╔██╗ ██╔══██║██║██║╚██╗██║██║   ██║╚════██║
 ███████║██╔╝ ██╗██║  ██║██║██║ ╚████║╚██████╔╝███████║
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-```
 
-**Explore my repositories to see IoT solutions, system designs, and monitoring implementations.**
 
-**Let's build something amazing together!** 🌟🚀
-
----
-
-*"Your code is a reflection of your dedication to excellence."* 💎
 
 ⭐ **Star my repos if you find them useful!** ⭐
