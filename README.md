@@ -78,10 +78,6 @@ I'm driven by solving challenging problems and continuously exploring cutting-ed
 
 ## 🎯 **WHAT I'M WORKING ON** 🎯
 
-```
-▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 100% PASSION FOR EXCELLENCE
-```
-
 - 🏢 **Designing scalable IoT architectures** for enterprise solutions
 - 🚨 **Implementing advanced monitoring** and alerting systems
 - 🔒 **Building secure edge computing** solutions
