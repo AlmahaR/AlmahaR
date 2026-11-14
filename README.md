@@ -1,16 +1,5 @@
 # 🌟 Hi there, I'm AlmahaR 👋 🌟
 
-```
-███╗   ███╗███████╗███████╗████████╗    ███████╗██╗  ██╗███████╗███████╗██╗  ██╗
-████╗ ████║██╔════╝██╔════╝╚══██╔══╝    ██╔════╝██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██╔████╔██║█████╗  █████╗     ██║       ███████╗█████╔╝ █████╗  █████╗  ███████║
-██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚════██║██╔═██╗ ██╔══╝  ██╔══╝  ╚════██║
-██║ ╚═╝ ██║███████╗███████╗   ██║       ███████║██║  ██╗███████╗███████╗     ██║
-╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝       ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚═╝
-```
-
----
-
 ## 🌠 **Welcome to My Digital Universe** 🌠
 
 I'm an **IoT Engineer** 🚀 passionate about designing robust systems, managing complex projects, and building intelligent connected solutions. With expertise in IoT platforms, cloud architecture, and real-time monitoring, I transform ideas into **scalable systems** that solve real-world problems.
